@@ -1,3 +1,5 @@
+# Project Discontinued
+
 # OtakuJin RPC App
 
 This is the background application for **OtakuJin**, a companion app that allows users to interact with the OtakuJin website and use Discord RPC features to enhance their anime-watching experience. This app provides integration with Discord, enabling users to share their current activity on OtakuJin directly on their Discord profile.
